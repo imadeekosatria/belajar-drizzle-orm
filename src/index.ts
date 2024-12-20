@@ -25,3 +25,5 @@ async function main() {
     console.log("User deleted successfully")
 
 }
+
+main()
